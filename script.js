@@ -89,6 +89,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".remover-btn").forEach((botao) => {
       botao.addEventListener("click", function () {
         let index = this.getAttribute("data-index");
+        removerDoCarrinho(index);
       });
     });
   }
