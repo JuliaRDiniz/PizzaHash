@@ -106,6 +106,7 @@ body {
 
     & #icone-carrinho {
       display: block;
+      cursor: pointer;
       &:hover {
         color: #da190f !important;
       }
