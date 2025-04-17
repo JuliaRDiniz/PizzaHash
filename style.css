@@ -540,7 +540,7 @@ footer .footer-bottom {
     width: 80%;
   }
   .home div .paragrafo-home {
-    font-weight: 500;
+    font-weight: 500 !important;
   }
   .sobre-nos .caixa-sobre {
     align-items: center;
