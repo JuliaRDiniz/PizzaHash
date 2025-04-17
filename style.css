@@ -539,6 +539,9 @@ footer .footer-bottom {
   .home div {
     width: 80%;
   }
+  .home div .paragrafo-home {
+    font-weight: 500;
+  }
   .sobre-nos .caixa-sobre {
     align-items: center;
   }

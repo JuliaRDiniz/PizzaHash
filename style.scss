@@ -642,6 +642,10 @@ footer {
   .home {
     & div {
       width: 80%;
+
+      & .paragrafo-home {
+        font-weight: 500;
+      }
     }
   }
 
